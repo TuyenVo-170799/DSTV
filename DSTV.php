@@ -8,6 +8,7 @@
 <body>
     <?php 
         echo "Vo Dinh Tuyen";
+        echo "Ho Nguyen Thanh Thien";
         echo "Ngo Quoc Trung";
         echo "To Hieu Ngoi";
         echo "Nguyen Hoang Anh Tien";
